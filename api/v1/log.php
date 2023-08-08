@@ -1,0 +1,1 @@
+[{"plate":"ABC795HP","image":"https:\/\/img.freepik.com\/premium-psd\/license-plate-font-mockup_23-2149688711.jpg?w=1060"},{"plate":"ABC795HP","image":"https:\/\/img.freepik.com\/premium-psd\/license-plate-font-mockup_23-2149688711.jpg?w=1060"}]
